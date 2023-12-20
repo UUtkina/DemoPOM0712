@@ -1,9 +1,8 @@
-package com.demoqa.tests;
+package tests;
 
 import com.demoqa.pages.AlertsPage;
 import com.demoqa.pages.HomePage;
 import com.demoqa.pages.SidePanel;
-import com.demoqa.tests.TestBase;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 

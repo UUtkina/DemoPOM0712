@@ -1,4 +1,4 @@
-package com.demoqa.tests;
+package tests;
 
 import com.demoqa.pages.HomePage;
 import com.demoqa.pages.PracticeFormPage;
