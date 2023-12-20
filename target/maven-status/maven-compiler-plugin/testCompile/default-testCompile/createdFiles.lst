@@ -1,0 +1,8 @@
+tests\PracticeFormTests.class
+tests\BrokenLinksTest.class
+tests\TestBase.class
+tests\TextBoxTests.class
+tests\BrowserWindowsTests.class
+tests\AlertsTests.class
+tests\ButtonsTests.class
+tests\SelectMenuTests.class
